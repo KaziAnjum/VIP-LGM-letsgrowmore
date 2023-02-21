@@ -1,6 +1,4 @@
-/* SAVE    ----  Tgame.java
-   COMPILE ----  javac Tgame.java
-   RUN     ----  java Tgame         */
+
 
 import java.awt.event.*;
 import javax.swing.*;
